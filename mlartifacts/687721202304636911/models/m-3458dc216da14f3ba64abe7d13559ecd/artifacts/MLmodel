@@ -1,0 +1,41 @@
+artifact_path: mlflow-artifacts:/687721202304636911/models/m-3458dc216da14f3ba64abe7d13559ecd/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.10
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 3.0.0
+is_signature_from_type_hint: false
+mlflow_version: 3.1.0
+model_id: m-3458dc216da14f3ba64abe7d13559ecd
+model_size_bytes: 363737
+model_uuid: m-3458dc216da14f3ba64abe7d13559ecd
+prompts: null
+run_id: abae7dc2462943609ebcb05ab5408635
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "day_of_week", "required": true}, {"type":
+    "double", "name": "hour_sin", "required": true}, {"type": "double", "name": "hour_cos",
+    "required": true}, {"type": "double", "name": "lag_1", "required": true}, {"type":
+    "double", "name": "lag_2", "required": true}, {"type": "double", "name": "lag_3",
+    "required": true}, {"type": "double", "name": "lag_24", "required": true}, {"type":
+    "double", "name": "lag_48", "required": true}, {"type": "double", "name": "lag_72",
+    "required": true}, {"type": "double", "name": "lag_168", "required": true}, {"type":
+    "double", "name": "rolling_mean_24", "required": true}, {"type": "double", "name":
+    "rolling_std_24", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-25 17:29:14.514931'

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/687721202304636911/0fe1ac4160bd463d8f4e89c525f3690f/artifacts
+end_time: 1750875891391
+entry_point_name: ''
+experiment_id: '687721202304636911'
+lifecycle_stage: active
+run_id: 0fe1ac4160bd463d8f4e89c525f3690f
+run_name: big-bat-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750875891361
+status: 3
+tags: []
+user_id: Andrey Andreev

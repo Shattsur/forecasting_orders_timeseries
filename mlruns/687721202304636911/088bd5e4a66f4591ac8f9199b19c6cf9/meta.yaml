@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/687721202304636911/088bd5e4a66f4591ac8f9199b19c6cf9/artifacts
+end_time: 1750873769642
+entry_point_name: ''
+experiment_id: '687721202304636911'
+lifecycle_stage: active
+run_id: 088bd5e4a66f4591ac8f9199b19c6cf9
+run_name: nosy-crow-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750873769608
+status: 3
+tags: []
+user_id: Andrey Andreev

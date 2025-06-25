@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/687721202304636911/c4f8fba0840e4d8185f687a3660ecde9/artifacts
+end_time: 1750874038182
+entry_point_name: ''
+experiment_id: '687721202304636911'
+lifecycle_stage: active
+run_id: c4f8fba0840e4d8185f687a3660ecde9
+run_name: bemused-shrimp-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750874038151
+status: 3
+tags: []
+user_id: Andrey Andreev

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/687721202304636911/b7f1cf74408e49228acac949f4069c12/artifacts
+end_time: 1750872294747
+entry_point_name: ''
+experiment_id: '687721202304636911'
+lifecycle_stage: active
+run_id: b7f1cf74408e49228acac949f4069c12
+run_name: colorful-mare-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750871115840
+status: 3
+tags: []
+user_id: Andrey Andreev

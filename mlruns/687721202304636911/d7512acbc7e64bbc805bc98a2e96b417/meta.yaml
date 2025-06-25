@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/687721202304636911/d7512acbc7e64bbc805bc98a2e96b417/artifacts
+end_time: 1750870858428
+entry_point_name: ''
+experiment_id: '687721202304636911'
+lifecycle_stage: active
+run_id: d7512acbc7e64bbc805bc98a2e96b417
+run_name: Optuna_XGBoost_Timeseries
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750870844273
+status: 3
+tags: []
+user_id: Andrey Andreev
